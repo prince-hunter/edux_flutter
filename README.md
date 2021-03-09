@@ -1,4 +1,4 @@
 # edux_flutter
-# pub get 
-# get dependencies
-# flutter run
+ pub get 
+ get dependencies
+ flutter run
